@@ -16,7 +16,7 @@ The study explores both **Machine Learning** and **Transformer-based Deep Learni
   - `text`: the textual content 
   - `label`: class  
 
-Author
+## Author
 Abu Bakar Rakib
 Student, Dept. of Computer Science and Engineering
 IUBAT – International University of Business Agriculture and Technology
