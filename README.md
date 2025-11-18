@@ -2,7 +2,7 @@
 This repository presents a research project that performs **sentiment analysis** on text data related to the **Russia–Ukraine conflict**.  
 The study explores both **Machine Learning** and **Transformer-based Deep Learning** models to classify opinions into three distinct categories:
 - **Pro Russian**
-- **Pro Ukrainine**
+- **Pro Ukrainian**
 - **Neutral**
 
 ## 📁 Dataset Description
@@ -10,7 +10,7 @@ The study explores both **Machine Learning** and **Transformer-based Deep Learni
 - **Dataset Size:** 10,000 text samples  
 - **Classes:**
   - Pro Russian
-  - Pro Ukrainine
+  - Pro Ukrainian
   - Neutral  
 - **Format:** CSV file containing:
   - `text`: the textual content 
