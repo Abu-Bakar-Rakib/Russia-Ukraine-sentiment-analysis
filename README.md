@@ -97,39 +97,9 @@ Our findings demonstrate that transformer-based architectures capture complex li
 
 ---
 
-## 🔬 Methodology
-Dataset (10,000 comments)
-│
-▼
-Data Preprocessing
-(Text Cleaning → Normalization → Label Encoding)
-│
-▼
-Data Splitting (80% Train / 20% Test)
-│
-├──────────────────────────────────────┐
-▼                                      ▼
-Feature Extraction                    Feature Extraction
-(BERT / RoBERTa Tokenizer)            (TF-IDF for SVM / Token IDs for RNN, LSTM)
-│                                      │
-▼                                      ▼
-Model Training                         Model Training
-(BERT, RoBERTa)                       (SVM, RNN, LSTM)
-│                                      │
-└──────────────┬───────────────────────┘
-▼
-Model Predictions
-│
-▼
-Results & Comparison
-│
-▼
-Best Model → BERT ✅
----
-
 ## 📚 Citation
 
-If you use this dataset, code, or findings in your research, please cite our paper:
+If you use this findings in your research, please cite our paper:
 
 ### BibTeX
 
