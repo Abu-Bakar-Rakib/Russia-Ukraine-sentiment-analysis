@@ -1,4 +1,4 @@
-# 🇺🇦🇷🇺 Sentiment Analysis of YouTube Comments on the Russia–Ukraine Conflict
+# Sentiment Analysis of YouTube Comments on the Russia–Ukraine Conflict
 
 [![IEEE](https://img.shields.io/badge/Published-IEEE%20ICECTE%202026-blue?logo=ieee)](https://ieeexplore.ieee.org/abstract/document/11429242)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green?logo=python)](https://www.python.org/)
