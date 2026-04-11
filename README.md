@@ -105,18 +105,12 @@ If you use this findings in your research, please cite our paper:
 
 ```bibtex
 @inproceedings{rakib2026sentiment,
-  title     = {Sentiment Analysis of YouTube Comments on the Russia Ukraine Conflict: 
-               A Comparative Study of Machine Learning and Transformer-Based Approaches},
-  author    = {Rakib, Abu Bakar and Alum, Md. Mahbub and Haque, Obaidul and Mondal, Snaholata},
-  booktitle = {2026 IEEE International Conference on Electrical, Computer \& 
-               Telecommunication Engineering (ICECTE)},
-  pages     = {1--6},
-  year      = {2026},
-  month     = {January},
-  address   = {Rajshahi, Bangladesh},
-  publisher = {IEEE},
-  doi       = {10.1109/ICECTE.2026.11429242},
-  url       = {https://ieeexplore.ieee.org/abstract/document/11429242}
+  title={Sentiment Analysis of YouTube Comments on the Russia Ukraine Conflict: A Comparative Study of Machine Learning and Transformer-Based Approaches},
+  author={Rakib, Abu Bakar and Alum, Md Mahbub and Haque, Obaidul and Mondal, Snaholata},
+  booktitle={2026 5th International Conference on Electrical, Computer \& Telecommunication Engineering (ICECTE)},
+  pages={1--6},
+  year={2026},
+  organization={IEEE}
 }
 ```
 ## ⭐ Star This Repo
